@@ -1,2 +1,3 @@
 langtonsAnt
 ===========
+![](art/langton.gif)
